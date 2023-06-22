@@ -20,7 +20,10 @@ namespace Capa_Logica.Cola
         
         }
 
-        public void Enqueue_Pares() { 
+        public void Enqueue_Pares(int _valor) { 
+        
+        }
+        public void Elimine_Valor_En_Cola() {
         
         }
 
