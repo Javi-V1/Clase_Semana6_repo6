@@ -11,8 +11,22 @@ namespace Capa_Logica.Cola
 
         }
 
-        public void Dequeue() {
+        public NodoInt Dequeue() {
+
+            return null;
+        }
+
+        public void Imprimir_Lista() { 
         
         }
+
+        public void Enqueue_Pares() { 
+        
+        }
+
+        public void Enqueue_Cola_Diferente() { 
+        
+        }
+
     }
 }
