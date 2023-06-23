@@ -11,7 +11,8 @@ namespace Capa_Logica.Pila
 
         }
         public void Pop() { 
-        
+         
+
         }   
 
     }
